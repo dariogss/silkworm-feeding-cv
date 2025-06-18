@@ -7,6 +7,7 @@ This project addresses silkworm feeding monitoring and habitat segmentation usin
 - Unsupervised segmentation: Separate worms, leaves, and background without pixel-wise labels.
 
 📁 Folder Structure
+```
 
 Silkworm_Project/
 ├── data/                          ← (Location for images and CSVs) REMOVED TO UPLOAD ON GITHUB
@@ -34,7 +35,7 @@ Silkworm_Project/
 │   └── load_data.py                    ← CSV label loader
 ├── main.py                        ← Quick testing / debugging
 └── README.md                     ← This file
-
+```
 ▶️ Execution Order
 
 Classification pipeline:
